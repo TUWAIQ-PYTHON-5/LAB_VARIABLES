@@ -1,6 +1,6 @@
 my_team : str = "Wej"
-x : int = 0
-y : float = 0.0
+x : int = 16
+y : float = 3.1415926
 GX = XG = AV = VA = 3
 A , B , C = 1 , 2 , 3 
 
