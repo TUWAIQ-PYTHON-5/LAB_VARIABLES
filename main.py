@@ -6,7 +6,7 @@ y = (3.14)
 print(y)
 b = ("mohammed")
 print(b)
-x = y = z = "mohammad", "/", "Ali"
+x , y , z = "mohammad", "/", "Ali"
 print(x)
 print(y)
 print(z)
